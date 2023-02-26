@@ -1,6 +1,6 @@
 # auth0
 
-auth0 is a service that allows to manager users in a easy way. It provides login/signup forms, including social login and SSO options so you don't have to expend time on it. It's perfect for those projects where you need to have a identification step because the integration is incredibly fast and better than you could do by yourself.
+auth0 is a service that allows to manage users in a easy way. It provides login/signup forms, including social login and SSO options so you don't have to expend time on it. It's perfect for those projects where you need to have a identification step because the integration is incredibly fast and better than you could do by yourself.
 
 ### Installation
 It's very easy to install auth0 in Rails. You just have to include a couple of gems, create an initializer and create a controller that will deal with the auth0 flow. You can see a basic configuration in [this commit](https://github.com/IvanGuardado/toolbox/commit/404946cf5e46f2a9cda70918e80277d63ab356d4).
